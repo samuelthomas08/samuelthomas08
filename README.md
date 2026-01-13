@@ -17,7 +17,7 @@ Ich programmiere seit **7 Jahren**. Was als Hobby begann, wird jetzt mein Beruf:
 ### Sprachen & Technologien
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,php,nodejs,java,python,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,php,nodejs,mysql,java,python,html,css,git&theme=dark" />
 </p>
 
 ### Programme
