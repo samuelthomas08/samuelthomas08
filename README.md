@@ -36,6 +36,6 @@ Ich programmiere seit **7 Jahren**. Was als Hobby begann, wird jetzt mein Beruf:
 
 ### 📬 Kontakt
 
-📧 [E-Mail schreiben](mailto:thomas08samuel@gmail.com)
+📧 Email: thomas08samuel@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
