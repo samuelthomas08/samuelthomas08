@@ -6,14 +6,6 @@ Ich programmiere seit **7 Jahren**. Was als Hobby begann, wird jetzt mein Beruf:
 
 ---
 
-### 🚀 Über mich
-
-- 🏢 **Beruflich:** Fokus auf **Vaadin (Java, TypeScript)**.
-- 🛠️ **Privat:** Full Stack mit **React**, **Node.js** und **SQL**.
-- 🎨 Ich liebe minimalistisches Design mit kleinen Animationen.
-
----
-
 ### Sprachen & Technologien
 
 <p align="left">
