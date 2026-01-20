@@ -23,11 +23,4 @@ Ich programmiere seit **7 Jahren**. Was als Hobby begann, wird jetzt mein Beruf:
 ### 📊 GitHub Insights
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuelthomas08&show_icons=true&theme=tokyonight&hide_border=true" />
 
-
-
-
-### 📬 Kontakt
-
-📧 Email: thomas08samuel@gmail.com
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
