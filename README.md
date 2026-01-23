@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full Stack Entwickler | Azubi Fachinformatiker Anwendungsentwicklung
 
-Ich programmiere seit **7 Jahren**. Was als Hobby begann, wird jetzt mein Beruf: Ich mache aktuell eine Ausbildung zum **Fachinformatiker für Anwendungsentwicklung**.
+Ich bin gerade 17 Jahre alt und programmiere seit **7 Jahren**. Was als Hobby begann, wird jetzt mein Beruf: Ich mache aktuell eine Ausbildung zum **Fachinformatiker für Anwendungsentwicklung**.
 
 ---
 
