@@ -9,7 +9,7 @@ Ich bin gerade 17 Jahre alt und programmiere seit **7 Jahren**. Was als Hobby be
 ### Sprachen & Technologien
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,php,nodejs,mysql,java,python,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,php,nodejs,mysql,postgres,java,python,html,css,git&theme=dark" />
 </p>
 
 ### Programme
@@ -17,10 +17,5 @@ Ich bin gerade 17 Jahre alt und programmiere seit **7 Jahren**. Was als Hobby be
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,ps,ae,pr,figma&theme=dark" />
 </p>
-
----
-
-### 📊 GitHub Insights
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuelthomas08&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
