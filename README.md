@@ -9,7 +9,7 @@ Ich bin gerade 17 Jahre alt und programmiere seit **7 Jahren**. Was als Hobby be
 ### Sprachen & Technologien
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,php,nodejs,mysql,postgres,java,python,html,css,tailwind,git,docker&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,php,nodejs,mysql,postgres,java,cs,python,html,css,tailwind,git,docker&theme=dark&perline=9" />
 </p>
 
 ### Programme
